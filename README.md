@@ -2,7 +2,7 @@
 
 My name is Kristiany Kukert Zamai from Florianópolis, Santa Catarina, Brazil (🇧🇷). 
 
-🌱 I´m currently learning about Reactjs 
+🌱 I´m currently learning about Reactjs and React Native
 
 📫 How to reach me:
 
