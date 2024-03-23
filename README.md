@@ -6,7 +6,6 @@ My name is Kristiany Kukert Zamai from Florianópolis, Santa Catarina, Brazil (�
 📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/kristiany-kukert-zamai-b92422/pt-br)](https://br.linkedin.com/in/kristiany-kukert-zamai-b92422/pt-br)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkzamai@gmail.com)](mailto:kkzamai@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/kris.zamai)](https://instagram.com/kris.zamai)
 
 <!--
